@@ -1,0 +1,289 @@
+{
+  "timestamp": "2026-05-13 16:28:42",
+  "area_radio_m": 15.0,
+  "altura_escaneo_m": 8.0,
+  "waypoints": [
+    {
+      "idx": 0,
+      "norte": 3.0,
+      "este": 0.0,
+      "altura": 8.0,
+      "yaw": 180.0
+    },
+    {
+      "idx": 1,
+      "norte": 2.12,
+      "este": 2.12,
+      "altura": 8.0,
+      "yaw": 225.0
+    },
+    {
+      "idx": 2,
+      "norte": 0.0,
+      "este": 3.0,
+      "altura": 8.0,
+      "yaw": 270.0
+    },
+    {
+      "idx": 3,
+      "norte": -2.12,
+      "este": 2.12,
+      "altura": 8.0,
+      "yaw": 315.0
+    },
+    {
+      "idx": 4,
+      "norte": -3.0,
+      "este": 0.0,
+      "altura": 8.0,
+      "yaw": 360.0
+    },
+    {
+      "idx": 5,
+      "norte": -2.12,
+      "este": -2.12,
+      "altura": 8.0,
+      "yaw": 45.0
+    },
+    {
+      "idx": 6,
+      "norte": -0.0,
+      "este": -3.0,
+      "altura": 8.0,
+      "yaw": 90.0
+    },
+    {
+      "idx": 7,
+      "norte": 2.12,
+      "este": -2.12,
+      "altura": 8.0,
+      "yaw": 135.0
+    },
+    {
+      "idx": 8,
+      "norte": 6.0,
+      "este": 0.0,
+      "altura": 8.0,
+      "yaw": 180.0
+    },
+    {
+      "idx": 9,
+      "norte": 4.24,
+      "este": 4.24,
+      "altura": 8.0,
+      "yaw": 225.0
+    },
+    {
+      "idx": 10,
+      "norte": 0.0,
+      "este": 6.0,
+      "altura": 8.0,
+      "yaw": 270.0
+    },
+    {
+      "idx": 11,
+      "norte": -4.24,
+      "este": 4.24,
+      "altura": 8.0,
+      "yaw": 315.0
+    },
+    {
+      "idx": 12,
+      "norte": -6.0,
+      "este": 0.0,
+      "altura": 8.0,
+      "yaw": 360.0
+    },
+    {
+      "idx": 13,
+      "norte": -4.24,
+      "este": -4.24,
+      "altura": 8.0,
+      "yaw": 45.0
+    },
+    {
+      "idx": 14,
+      "norte": -0.0,
+      "este": -6.0,
+      "altura": 8.0,
+      "yaw": 90.0
+    },
+    {
+      "idx": 15,
+      "norte": 4.24,
+      "este": -4.24,
+      "altura": 8.0,
+      "yaw": 135.0
+    },
+    {
+      "idx": 16,
+      "norte": 9.0,
+      "este": 0.0,
+      "altura": 8.0,
+      "yaw": 180.0
+    },
+    {
+      "idx": 17,
+      "norte": 6.36,
+      "este": 6.36,
+      "altura": 8.0,
+      "yaw": 225.0
+    },
+    {
+      "idx": 18,
+      "norte": 0.0,
+      "este": 9.0,
+      "altura": 8.0,
+      "yaw": 270.0
+    },
+    {
+      "idx": 19,
+      "norte": -6.36,
+      "este": 6.36,
+      "altura": 8.0,
+      "yaw": 315.0
+    },
+    {
+      "idx": 20,
+      "norte": -9.0,
+      "este": 0.0,
+      "altura": 8.0,
+      "yaw": 360.0
+    },
+    {
+      "idx": 21,
+      "norte": -6.36,
+      "este": -6.36,
+      "altura": 8.0,
+      "yaw": 45.0
+    },
+    {
+      "idx": 22,
+      "norte": -0.0,
+      "este": -9.0,
+      "altura": 8.0,
+      "yaw": 90.0
+    },
+    {
+      "idx": 23,
+      "norte": 6.36,
+      "este": -6.36,
+      "altura": 8.0,
+      "yaw": 135.0
+    },
+    {
+      "idx": 24,
+      "norte": 12.0,
+      "este": 0.0,
+      "altura": 8.0,
+      "yaw": 180.0
+    },
+    {
+      "idx": 25,
+      "norte": 8.49,
+      "este": 8.49,
+      "altura": 8.0,
+      "yaw": 225.0
+    },
+    {
+      "idx": 26,
+      "norte": 0.0,
+      "este": 12.0,
+      "altura": 8.0,
+      "yaw": 270.0
+    },
+    {
+      "idx": 27,
+      "norte": -8.49,
+      "este": 8.49,
+      "altura": 8.0,
+      "yaw": 315.0
+    },
+    {
+      "idx": 28,
+      "norte": -12.0,
+      "este": 0.0,
+      "altura": 8.0,
+      "yaw": 360.0
+    },
+    {
+      "idx": 29,
+      "norte": -8.49,
+      "este": -8.49,
+      "altura": 8.0,
+      "yaw": 45.0
+    },
+    {
+      "idx": 30,
+      "norte": -0.0,
+      "este": -12.0,
+      "altura": 8.0,
+      "yaw": 90.0
+    },
+    {
+      "idx": 31,
+      "norte": 8.49,
+      "este": -8.49,
+      "altura": 8.0,
+      "yaw": 135.0
+    },
+    {
+      "idx": 32,
+      "norte": 15.0,
+      "este": 0.0,
+      "altura": 8.0,
+      "yaw": 180.0
+    },
+    {
+      "idx": 33,
+      "norte": 10.61,
+      "este": 10.61,
+      "altura": 8.0,
+      "yaw": 225.0
+    },
+    {
+      "idx": 34,
+      "norte": 0.0,
+      "este": 15.0,
+      "altura": 8.0,
+      "yaw": 270.0
+    },
+    {
+      "idx": 35,
+      "norte": -10.61,
+      "este": 10.61,
+      "altura": 8.0,
+      "yaw": 315.0
+    },
+    {
+      "idx": 36,
+      "norte": -15.0,
+      "este": 0.0,
+      "altura": 8.0,
+      "yaw": 360.0
+    },
+    {
+      "idx": 37,
+      "norte": -10.61,
+      "este": -10.61,
+      "altura": 8.0,
+      "yaw": 45.0
+    },
+    {
+      "idx": 38,
+      "norte": -0.0,
+      "este": -15.0,
+      "altura": 8.0,
+      "yaw": 90.0
+    },
+    {
+      "idx": 39,
+      "norte": 10.61,
+      "este": -10.61,
+      "altura": 8.0,
+      "yaw": 135.0
+    }
+  ],
+  "estado": "completado",
+  "total_waypoints": 40
+}
